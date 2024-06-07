@@ -1,4 +1,7 @@
-This directory will contain scripts used in the manuscript.
+# Scripts
+
+site_rates_from_msa: Containts scripts to calculate site-rates from an amino acid MSA
+substitution matrix fitting: Contains the scripts used to fit an ensemble of frequency vectors to substitution matrices.
 
 estimate_site_rates_musel_freq_clean_codon_freq_from_prop.py: script that calculate rates from a MSA
 
